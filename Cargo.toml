@@ -1,0 +1,8 @@
+[package]
+name = "rust-baseball-game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+macroquad = "0.4" # 最新の安定版を使用してください
+rand = "0.8"     # ランダム用
